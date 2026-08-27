@@ -1,0 +1,4 @@
+Added Component: Designator=R3(FP-AC0603-MFG)
+Added Pin To Net: NetName=3V3 Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Member To Class: ClassName=MCU Member=Component R3 10K
